@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.duckdb
+*.duckdb.wal
+.duckdb/
+.gradio/
+*.log
+.DS_Store
+.idea/
+.vscode/
